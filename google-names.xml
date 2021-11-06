@@ -1,0 +1,2635 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfGoogleSheetsJson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GoogleSheetsJson>
+    <ItemId>fishingbishopfisht5</ItemId>
+    <ItemName>Abaia Serpe</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>adamatinedustt1</ItemId>
+    <ItemName>Adamantine Dust</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tannint5</ItemId>
+    <ItemName>Aged Tannin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodt2</ItemId>
+    <ItemName>Aged Wood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyairt3</ItemId>
+    <ItemName>Air Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyairt1</ItemId>
+    <ItemName>Air Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essenceairt1</ItemId>
+    <ItemName>Air Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyairt2</ItemId>
+    <ItemName>Air Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinganglerfisht5</ItemId>
+    <ItemName>Albenaja</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambert2</ItemId>
+    <ItemName>Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystt2</ItemId>
+    <ItemName>Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ancientbearingt1</ItemId>
+    <ItemName>Ancient Bearing</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ancientfemurt1</ItemId>
+    <ItemName>Ancient Femur</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ancientmandiblet1</ItemId>
+    <ItemName>Ancient Mandible</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ancientskullt1</ItemId>
+    <ItemName>Ancient Skull</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ancienttextst1</ItemId>
+    <ItemName>Ancient Texts</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>hornt5</ItemId>
+    <ItemName>Animal Horn</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>applet1</ItemId>
+    <ItemName>Apple</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinet2</ItemId>
+    <ItemName>Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingegedeserpet5</ItemId>
+    <ItemName>Aquanaja</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>armorersjournalt1</ItemId>
+    <ItemName>Armorer's Journal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodstaint2</ItemId>
+    <ItemName>Ash Stain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingott51</ItemId>
+    <ItemName>Asmodeum</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_bandt51</ItemId>
+    <ItemName>Asmodeum Band</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_chaint51</ItemId>
+    <ItemName>Asmodeum Chain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>factionchisel5</ItemId>
+    <ItemName>Asmodeum Chisel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_hookt51</ItemId>
+    <ItemName>Asmodeum Hook</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_settingt51</ItemId>
+    <ItemName>Asmodeum Setting</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>azothwatert1</ItemId>
+    <ItemName>Azoth Water</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>azuritechunkt1</ItemId>
+    <ItemName>Azurite Chunk</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>barbvinet1</ItemId>
+    <ItemName>Barbvine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>barkflesht1</ItemId>
+    <ItemName>Barkflesh</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>barleyt1</ItemId>
+    <ItemName>Barley</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_ancients_t2</ItemId>
+    <ItemName>Basic Ancients Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_angryearth_t2</ItemId>
+    <ItemName>Basic Angry Earth Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_alchemy_bonus_t2</ItemId>
+    <ItemName>Basic Arcana Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_outfitting_bonus_t2</ItemId>
+    <ItemName>Basic Armoring Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_cooking_bonus_t2</ItemId>
+    <ItemName>Basic Cooking Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_corrupted_t2</ItemId>
+    <ItemName>Basic Corrupted Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_engineering_bonus_t2</ItemId>
+    <ItemName>Basic Engineering Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_fishing_bonus_t2</ItemId>
+    <ItemName>Basic Fishing Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_harvesting_bonus_t2</ItemId>
+    <ItemName>Basic Harvesting Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_logging_bonus_t2</ItemId>
+    <ItemName>Basic Logging Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_luck_bonus_t2</ItemId>
+    <ItemName>Basic Loot Luck Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_lost_t2</ItemId>
+    <ItemName>Basic Lost Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_mining_bonus_t2</ItemId>
+    <ItemName>Basic Mining Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_skinning_bonus_t2</ItemId>
+    <ItemName>Basic Skinning Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_blacksmithing_bonus_t2</ItemId>
+    <ItemName>Basic Weaponsmithing Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_beasts_t2</ItemId>
+    <ItemName>Basic Wildlife Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>basilt1</ItemId>
+    <ItemName>Basil</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>beeswaxt1</ItemId>
+    <ItemName>Beeswax</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>berryt1</ItemId>
+    <ItemName>Berry</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentblack</ItemId>
+    <ItemName>Black Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blessedcruciblet1</ItemId>
+    <ItemName>Blessed Crucible</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blessedsceptert1</ItemId>
+    <ItemName>Blessed Scepter</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blightseeds</ItemId>
+    <ItemName>Blight Seeds</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blightmothdustt1</ItemId>
+    <ItemName>Blightmoth Dust</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blightroott3</ItemId>
+    <ItemName>Blightroot Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blightroott2</ItemId>
+    <ItemName>Blightroot Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blightroott1</ItemId>
+    <ItemName>Blightroot Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blisterweavet1</ItemId>
+    <ItemName>Blisterweave</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>bloodsporet1</ItemId>
+    <ItemName>Bloodspore Bloom</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentblue</ItemId>
+    <ItemName>Blue Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingtessiet5</ItemId>
+    <ItemName>Blue-blooded Barb</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmerliont5</ItemId>
+    <ItemName>Blue-Winged Serpe</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blueberryt1</ItemId>
+    <ItemName>Blueberry</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>breadt1</ItemId>
+    <ItemName>Bread</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>briarbudst1</ItemId>
+    <ItemName>Briar Buds</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>brightscalehidet1</ItemId>
+    <ItemName>Brightscale Hide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambert3</ItemId>
+    <ItemName>Brilliant Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystt3</ItemId>
+    <ItemName>Brilliant Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinet3</ItemId>
+    <ItemName>Brilliant Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliant3</ItemId>
+    <ItemName>Brilliant Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondt3</ItemId>
+    <ItemName>Brilliant Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldt3</ItemId>
+    <ItemName>Brilliant Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspert3</ItemId>
+    <ItemName>Brilliant Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitet3</ItemId>
+    <ItemName>Brilliant Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonet3</ItemId>
+    <ItemName>Brilliant Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxt3</ItemId>
+    <ItemName>Brilliant Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalt3</ItemId>
+    <ItemName>Brilliant Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pearlt3</ItemId>
+    <ItemName>Brilliant Pearl</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubyt3</ItemId>
+    <ItemName>Brilliant Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphiret3</ItemId>
+    <ItemName>Brilliant Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazt3</ItemId>
+    <ItemName>Brilliant Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>broccolit1</ItemId>
+    <ItemName>Broccoli</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>brokenhatchett1</ItemId>
+    <ItemName>Broken Hatchet</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentbrown</ItemId>
+    <ItemName>Brown Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>bulrushcobt1</ItemId>
+    <ItemName>Bulrush Cob</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>bumbleblossomt1</ItemId>
+    <ItemName>Bumbleblossom</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>buttert1</ItemId>
+    <ItemName>Butter</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cabbaget1</ItemId>
+    <ItemName>Cabbage</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliant2</ItemId>
+    <ItemName>Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carrott1</ItemId>
+    <ItemName>Carrot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>catfishwhiskerst1</ItemId>
+    <ItemName>Catfish Whiskers</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cauliflowert1</ItemId>
+    <ItemName>Cauliflower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>charcoalt1</ItemId>
+    <ItemName>Charcoal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cheeset1</ItemId>
+    <ItemName>Cheese</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>chefssecretcookbookt1</ItemId>
+    <ItemName>Chef's Secret Cookbook</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>chefssecrettechniquest1</ItemId>
+    <ItemName>Chef's Secret Techniques</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cinnabart1</ItemId>
+    <ItemName>Cinnabar</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cinnamont1</ItemId>
+    <ItemName>Cinnamon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingclamssmallt2</ItemId>
+    <ItemName>Clam</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>coagulatedbloodt1</ItemId>
+    <ItemName>Coagulated Blood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>leathert2</ItemId>
+    <ItemName>Coarse Leather</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sandpapert3</ItemId>
+    <ItemName>Coarse Sandpaper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>coconutt1</ItemId>
+    <ItemName>Coconut</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>codeyet1</ItemId>
+    <ItemName>Cod Eye</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cookingoilt1</ItemId>
+    <ItemName>Cooking Oil</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cornt1</ItemId>
+    <ItemName>Corn</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corruptedcrestt1</ItemId>
+    <ItemName>Corrupted Crest</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>breachdrop4</ItemId>
+    <ItemName>Corrupted Crystal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>breachdrop2</ItemId>
+    <ItemName>Corrupted Fragment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>breachdrop5</ItemId>
+    <ItemName>Corrupted Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_greatcleaverune</ItemId>
+    <ItemName>Corrupted Rune</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>breachdrop3</ItemId>
+    <ItemName>Corrupted Shard</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>breachdrop1</ItemId>
+    <ItemName>Corrupted Sliver</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corruptedtalismant1</ItemId>
+    <ItemName>Corrupted Talisman</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corruptedtotemt1</ItemId>
+    <ItemName>Corrupted Totem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corruptedtreatiset1</ItemId>
+    <ItemName>Corrupted Treatise</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>cranberryt1</ItemId>
+    <ItemName>Cranberry</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>crestoffortitudet1</ItemId>
+    <ItemName>Crest of Fortitude</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clothweavet3</ItemId>
+    <ItemName>Crossweave</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestonesoult1</ItemId>
+    <ItemName>Crystalline Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambercutt2</ItemId>
+    <ItemName>Cut Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystcutt2</ItemId>
+    <ItemName>Cut Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinecutt2</ItemId>
+    <ItemName>Cut Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambercutt3</ItemId>
+    <ItemName>Cut Brilliant Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystcutt3</ItemId>
+    <ItemName>Cut Brilliant Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinecutt3</ItemId>
+    <ItemName>Cut Brilliant Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliancutt3</ItemId>
+    <ItemName>Cut Brilliant Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondcutt3</ItemId>
+    <ItemName>Cut Brilliant Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldcutt3</ItemId>
+    <ItemName>Cut Brilliant Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspercutt3</ItemId>
+    <ItemName>Cut Brilliant Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitecutt3</ItemId>
+    <ItemName>Cut Brilliant Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonecutt3</ItemId>
+    <ItemName>Cut Brilliant Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxcutt3</ItemId>
+    <ItemName>Cut Brilliant Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalcutt3</ItemId>
+    <ItemName>Cut Brilliant Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubycutt3</ItemId>
+    <ItemName>Cut Brilliant Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphirecutt3</ItemId>
+    <ItemName>Cut Brilliant Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazcutt3</ItemId>
+    <ItemName>Cut Brilliant Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliancutt2</ItemId>
+    <ItemName>Cut Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondcutt2</ItemId>
+    <ItemName>Cut Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldcutt2</ItemId>
+    <ItemName>Cut Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambercutt1</ItemId>
+    <ItemName>Cut Flawed Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystcutt1</ItemId>
+    <ItemName>Cut Flawed Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinecutt1</ItemId>
+    <ItemName>Cut Flawed Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliancutt1</ItemId>
+    <ItemName>Cut Flawed Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondcutt1</ItemId>
+    <ItemName>Cut Flawed Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldcutt1</ItemId>
+    <ItemName>Cut Flawed Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspercutt1</ItemId>
+    <ItemName>Cut Flawed Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitecutt1</ItemId>
+    <ItemName>Cut Flawed Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonecutt1</ItemId>
+    <ItemName>Cut Flawed Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxcutt1</ItemId>
+    <ItemName>Cut Flawed Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalcutt1</ItemId>
+    <ItemName>Cut Flawed Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubycutt1</ItemId>
+    <ItemName>Cut Flawed Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphirecutt1</ItemId>
+    <ItemName>Cut Flawed Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazcutt1</ItemId>
+    <ItemName>Cut Flawed Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspercutt2</ItemId>
+    <ItemName>Cut Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitecutt2</ItemId>
+    <ItemName>Cut Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonecutt2</ItemId>
+    <ItemName>Cut Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxcutt2</ItemId>
+    <ItemName>Cut Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalcutt2</ItemId>
+    <ItemName>Cut Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambercutt4</ItemId>
+    <ItemName>Cut Pristine Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystcutt4</ItemId>
+    <ItemName>Cut Pristine Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinecutt4</ItemId>
+    <ItemName>Cut Pristine Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliancutt4</ItemId>
+    <ItemName>Cut Pristine Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondcutt4</ItemId>
+    <ItemName>Cut Pristine Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldcutt4</ItemId>
+    <ItemName>Cut Pristine Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspercutt4</ItemId>
+    <ItemName>Cut Pristine Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitecutt4</ItemId>
+    <ItemName>Cut Pristine Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonecutt4</ItemId>
+    <ItemName>Cut Pristine Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxcutt4</ItemId>
+    <ItemName>Cut Pristine Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalcutt4</ItemId>
+    <ItemName>Cut Pristine Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubycutt4</ItemId>
+    <ItemName>Cut Pristine Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphirecutt4</ItemId>
+    <ItemName>Cut Pristine Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazcutt4</ItemId>
+    <ItemName>Cut Pristine Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubycutt2</ItemId>
+    <ItemName>Cut Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphirecutt2</ItemId>
+    <ItemName>Cut Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazcutt2</ItemId>
+    <ItemName>Cut Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentcyan</ItemId>
+    <ItemName>Cyan Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghafgufat5</ItemId>
+    <ItemName>Daemonaja</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemydeatht3</ItemId>
+    <ItemName>Death Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemydeatht1</ItemId>
+    <ItemName>Death Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essencedeatht1</ItemId>
+    <ItemName>Death Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemydeatht2</ItemId>
+    <ItemName>Death Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fisht4</ItemId>
+    <ItemName>Delicate Fish Filet</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondt2</ItemId>
+    <ItemName>Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>dillt1</ItemId>
+    <ItemName>Dill</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>dragonfishjawt5</ItemId>
+    <ItemName>Dragon Fish Jaw</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>dragongloryt3</ItemId>
+    <ItemName>Dragonglory Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>dragongloryt2</ItemId>
+    <ItemName>Dragonglory Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>dragongloryt1</ItemId>
+    <ItemName>Dragonglory Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>dummyframe</ItemId>
+    <ItemName>Dummy Frame</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyeartht3</ItemId>
+    <ItemName>Earth Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyeartht1</ItemId>
+    <ItemName>Earth Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essenceeartht1</ItemId>
+    <ItemName>Earth Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_edentotem</ItemId>
+    <ItemName>Earth Totem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyeartht2</ItemId>
+    <ItemName>Earth Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>earthshelltailt1</ItemId>
+    <ItemName>Earthshell Tail</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>earthspinet3</ItemId>
+    <ItemName>Earthspine Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>earthspinet2</ItemId>
+    <ItemName>Earthspine Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>earthspinet1</ItemId>
+    <ItemName>Earthspine Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ebonwoodt1</ItemId>
+    <ItemName>Ebonwood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ectoplasmicessencet1</ItemId>
+    <ItemName>Ectoplasmic Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingnamazut5</ItemId>
+    <ItemName>Egede Serpe</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>eggt1</ItemId>
+    <ItemName>Egg</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keypart_elementalheart</ItemId>
+    <ItemName>Elemental Heart</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emberstonet1</ItemId>
+    <ItemName>Ember Stone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emblemoffortitudet1</ItemId>
+    <ItemName>Emblem of Fortitude</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>embossedwrappingt5</ItemId>
+    <ItemName>Embossed Wrapping</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldt2</ItemId>
+    <ItemName>Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>empoweredcounterbalancet5</ItemId>
+    <ItemName>Empowered Counterbalance</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>enchantedbowstringt5</ItemId>
+    <ItemName>Enchanted Bow String</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keypart_core</ItemId>
+    <ItemName>Energy Core</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>engineerstechniquemanualst1</ItemId>
+    <ItemName>Engineer's Technique Manuals</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ephemeralsealt1</ItemId>
+    <ItemName>Ephemeral Seal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>etchedhandguardt5</ItemId>
+    <ItemName>Etched Handguard</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keypart_eternalheart</ItemId>
+    <ItemName>Eternal Heart</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>eternalicet1</ItemId>
+    <ItemName>Eternal Ice</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>faeiront1</ItemId>
+    <ItemName>Fae Iron</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_shell</ItemId>
+    <ItemName>Fancy Shell</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>feathert1</ItemId>
+    <ItemName>Feathers</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fibert1</ItemId>
+    <ItemName>Fibers</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sandpapert4</ItemId>
+    <ItemName>Fine Sandpaper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corecrystalfiret5</ItemId>
+    <ItemName>Fire Crystal Core</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyfiret3</ItemId>
+    <ItemName>Fire Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyfiret1</ItemId>
+    <ItemName>Fire Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essencefiret1</ItemId>
+    <ItemName>Fire Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyfiret2</ItemId>
+    <ItemName>Fire Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_foxfire</ItemId>
+    <ItemName>Firefox</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fisht2</ItemId>
+    <ItemName>Firm Fish Filet</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fisht1</ItemId>
+    <ItemName>Fish Filet</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishoilt1</ItemId>
+    <ItemName>Fish Oil</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishroet1</ItemId>
+    <ItemName>Fish Roe</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambert1</ItemId>
+    <ItemName>Flawed Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystt1</ItemId>
+    <ItemName>Flawed Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinet1</ItemId>
+    <ItemName>Flawed Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliant1</ItemId>
+    <ItemName>Flawed Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondt1</ItemId>
+    <ItemName>Flawed Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldt1</ItemId>
+    <ItemName>Flawed Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspert1</ItemId>
+    <ItemName>Flawed Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitet1</ItemId>
+    <ItemName>Flawed Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonet1</ItemId>
+    <ItemName>Flawed Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxt1</ItemId>
+    <ItemName>Flawed Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalt1</ItemId>
+    <ItemName>Flawed Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pearlt1</ItemId>
+    <ItemName>Flawed Pearl</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubyt1</ItemId>
+    <ItemName>Flawed Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphiret1</ItemId>
+    <ItemName>Flawed Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazt1</ItemId>
+    <ItemName>Flawed Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>flintt1</ItemId>
+    <ItemName>Flint</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>flourt1</ItemId>
+    <ItemName>Flour</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fluffystuffingt1</ItemId>
+    <ItemName>Fluffy Stuffing</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>forgemastersnotest1</ItemId>
+    <ItemName>Forgemaster's Notes</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fragmentedmuskett1</ItemId>
+    <ItemName>Fragmented Musket</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestonewatert1</ItemId>
+    <ItemName>Freezing Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>frogfishtailt1</ItemId>
+    <ItemName>Frogfish Tail</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fungalslimet1</ItemId>
+    <ItemName>Fungal Slime</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fungalsporest1</ItemId>
+    <ItemName>Fungal Spores</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>furt3</ItemId>
+    <ItemName>Fur</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>meatgamet1</ItemId>
+    <ItemName>Game Meat</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>garlict1</ItemId>
+    <ItemName>Garlic</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keypart_coregenesis</ItemId>
+    <ItemName>Genesis Core</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>gillflowert1</ItemId>
+    <ItemName>Gillflower Gills</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>gingert1</ItemId>
+    <ItemName>Ginger</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestonelifet1</ItemId>
+    <ItemName>Gleaming Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>glintwoolt1</ItemId>
+    <ItemName>Glintstrands</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>timbert51</ItemId>
+    <ItemName>Glittering Ebony</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmerrowt5</ItemId>
+    <ItemName>Glowing Gnufish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingselkiet5</ItemId>
+    <ItemName>Glowing Guardfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>glowingcapt1</ItemId>
+    <ItemName>Glowing Mushroom Cap</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>glowingsapt1</ItemId>
+    <ItemName>Glowing Sap</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_glowingspore</ItemId>
+    <ItemName>Glowing Spore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_moss</ItemId>
+    <ItemName>Glowing Swamp Moss</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_bandt3</ItemId>
+    <ItemName>Gold Band</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_chaint3</ItemId>
+    <ItemName>Gold Chain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_hookt3</ItemId>
+    <ItemName>Gold Hook</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingotprecioust2</ItemId>
+    <ItemName>Gold Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oreprecioust2</ItemId>
+    <ItemName>Gold Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_settingt3</ItemId>
+    <ItemName>Gold Setting</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>holdingrunet5</ItemId>
+    <ItemName>Grand Rune of Holding</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>holdingrunet4</ItemId>
+    <ItemName>Greater Rune of Holding</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentgreen</ItemId>
+    <ItemName>Green Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodt1</ItemId>
+    <ItemName>Green Wood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>gunpowdert2</ItemId>
+    <ItemName>Gunpowder</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>halibutviscerat1</ItemId>
+    <ItemName>Halibut Viscera</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>honeyt1</ItemId>
+    <ItemName>Honey</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingabaiat5</ItemId>
+    <ItemName>Horned-Tooth Mandje</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>herbt1</ItemId>
+    <ItemName>Hyssop</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corecrystalicet5</ItemId>
+    <ItemName>Ice Crystal Core</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clawt5</ItemId>
+    <ItemName>Infused Claw</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fangt4</ItemId>
+    <ItemName>Infused Fang</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>furt5</ItemId>
+    <ItemName>Infused Fur</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>leathert5</ItemId>
+    <ItemName>Infused Leather</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clotht5</ItemId>
+    <ItemName>Infused Silk</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>intricatelockt5</ItemId>
+    <ItemName>Intricate Firearm Lock</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>factionchisel1</ItemId>
+    <ItemName>Iron Chisel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rawhidet5</ItemId>
+    <ItemName>Iron Hide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingott2</ItemId>
+    <ItemName>Iron Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oret1</ItemId>
+    <ItemName>Iron Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodt5</ItemId>
+    <ItemName>Ironwood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>timbert5</ItemId>
+    <ItemName>Ironwood Planks</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>collarjadet1</ItemId>
+    <ItemName>Jade Collar</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jadetalismant1</ItemId>
+    <ItemName>Jade Talisman</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspert2</ItemId>
+    <ItemName>Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>journalflorat1</ItemId>
+    <ItemName>Journal of Aeternum Flora</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>hamhockt1</ItemId>
+    <ItemName>Juicy Ham Hock</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingbasslarget1</ItemId>
+    <ItemName>Large Bass</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingbluefishlarget1</ItemId>
+    <ItemName>Large Bluefish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingcatfishlarget2</ItemId>
+    <ItemName>Large Catfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingcodlarget2</ItemId>
+    <ItemName>Large Cod</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingdragonfishlarget3</ItemId>
+    <ItemName>Large Dragon Fish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingflounderlarget1</ItemId>
+    <ItemName>Large Flounder</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingfrogfishlarget3</ItemId>
+    <ItemName>Large Frogfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghakelarget1</ItemId>
+    <ItemName>Large Hake</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghalibutlarget2</ItemId>
+    <ItemName>Large Halibut</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmackerellarget1</ItemId>
+    <ItemName>Large Mackerel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmadtomlarget3</ItemId>
+    <ItemName>Large Madtom</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpaddlefishlarget3</ItemId>
+    <ItemName>Large Paddlefish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingperchlarget1</ItemId>
+    <ItemName>Large Perch</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpikelarget1</ItemId>
+    <ItemName>Large Pike</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpiranhalarget3</ItemId>
+    <ItemName>Large Piranha</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsalmonlarget1</ItemId>
+    <ItemName>Large Salmon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsculpinlarget3</ItemId>
+    <ItemName>Large Sculpin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsnapperlarget1</ItemId>
+    <ItemName>Large Snapper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingspeartoothsharklarget3</ItemId>
+    <ItemName>Large Speartooth Shark</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsquidlarget2</ItemId>
+    <ItemName>Large Squid</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingstingraylarget3</ItemId>
+    <ItemName>Large Stingray</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsturgeonlarget2</ItemId>
+    <ItemName>Large Sturgeon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsunfishlarget1</ItemId>
+    <ItemName>Large Sunfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingswordfishlarget3</ItemId>
+    <ItemName>Large Swordfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingtroutlarget1</ItemId>
+    <ItemName>Large Trout</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmishipeshut5</ItemId>
+    <ItemName>Lava Barb</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>leathert4</ItemId>
+    <ItemName>Layered Leather</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keypart_corelazarus</ItemId>
+    <ItemName>Lazarus Core</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lemont1</ItemId>
+    <ItemName>Lemon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>corecrystallifet5</ItemId>
+    <ItemName>Life Crystal Core</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemylifet3</ItemId>
+    <ItemName>Life Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemylifet1</ItemId>
+    <ItemName>Life Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essencelifet1</ItemId>
+    <ItemName>Life Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemylifet2</ItemId>
+    <ItemName>Life Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lifebloomt3</ItemId>
+    <ItemName>Lifebloom Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lifebloomt2</ItemId>
+    <ItemName>Lifebloom Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lifebloomt1</ItemId>
+    <ItemName>Lifebloom Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lifemotheyest1</ItemId>
+    <ItemName>Lifemoth Eyes</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lightningbeetlewingst1</ItemId>
+    <ItemName>Lightning Beetle</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clotht2</ItemId>
+    <ItemName>Linen</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>loadeddicet1</ItemId>
+    <ItemName>Loaded Dice</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestoneeartht1</ItemId>
+    <ItemName>Loamy Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>stonet4</ItemId>
+    <ItemName>Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blockt4</ItemId>
+    <ItemName>Lodestone Brick</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>timbert3</ItemId>
+    <ItemName>Lumber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lumberjackstokent1</ItemId>
+    <ItemName>Lumberjack's Token</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentmagenta</ItemId>
+    <ItemName>Magenta Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodstaint5</ItemId>
+    <ItemName>Mahogany Stain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>holdingrunet3</ItemId>
+    <ItemName>Major Rune of Holding</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitet2</ItemId>
+    <ItemName>Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmandjemandjet5</ItemId>
+    <ItemName>Mandje Mandje</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodstaint3</ItemId>
+    <ItemName>Maple Stain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingbassmediumt1</ItemId>
+    <ItemName>Medium Bass</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingbluefishmediumt1</ItemId>
+    <ItemName>Medium Bluefish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingcatfishmediumt2</ItemId>
+    <ItemName>Medium Catfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingcodmediumt2</ItemId>
+    <ItemName>Medium Cod</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingdragonfishmediumt3</ItemId>
+    <ItemName>Medium Dragon Fish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingfloundermediumt1</ItemId>
+    <ItemName>Medium Flounder</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingfrogfishmediumt3</ItemId>
+    <ItemName>Medium Frogfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghakemediumt1</ItemId>
+    <ItemName>Medium Hake</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghalibutmediumt2</ItemId>
+    <ItemName>Medium Halibut</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmackerelmediumt1</ItemId>
+    <ItemName>Medium Mackerel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmadtommediumt3</ItemId>
+    <ItemName>Medium Madtom</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpaddlefishmediumt3</ItemId>
+    <ItemName>Medium Paddlefish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingperchmediumt1</ItemId>
+    <ItemName>Medium Perch</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpikemediumt1</ItemId>
+    <ItemName>Medium Pike</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpiranhamediumt3</ItemId>
+    <ItemName>Medium Piranha</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsalmonmediumt1</ItemId>
+    <ItemName>Medium Salmon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsculpinmediumt3</ItemId>
+    <ItemName>Medium Sculpin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsnappermediumt1</ItemId>
+    <ItemName>Medium Snapper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingspeartoothsharkmediumt3</ItemId>
+    <ItemName>Medium Speartooth Shark</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsquidmediumt2</ItemId>
+    <ItemName>Medium Squid</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingstingraymediumt3</ItemId>
+    <ItemName>Medium Stingray</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsturgeonmediumt2</ItemId>
+    <ItemName>Medium Sturgeon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsunfishmediumt1</ItemId>
+    <ItemName>Medium Sunfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingswordfishmediumt3</ItemId>
+    <ItemName>Medium Swordfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingtroutmediumt1</ItemId>
+    <ItemName>Medium Trout</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>melont1</ItemId>
+    <ItemName>Melon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>mercurialtokent1</ItemId>
+    <ItemName>Mercurial Token</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>metallicboneweavet1</ItemId>
+    <ItemName>Metallic Boneweave</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>milkt1</ItemId>
+    <ItemName>Milk</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_ancients_t1</ItemId>
+    <ItemName>Minor Ancients Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_angryearth_t1</ItemId>
+    <ItemName>Minor Angry Earth Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_alchemy_bonus_t1</ItemId>
+    <ItemName>Minor Arcana Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_outfitting_bonus_t1</ItemId>
+    <ItemName>Minor Armoring Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_cooking_bonus_t1</ItemId>
+    <ItemName>Minor Cooking Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_corrupted_t1</ItemId>
+    <ItemName>Minor Corrupted Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_engineering_bonus_t1</ItemId>
+    <ItemName>Minor Engineering Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_fishing_bonus_t1</ItemId>
+    <ItemName>Minor Fishing Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_harvesting_bonus_t1</ItemId>
+    <ItemName>Minor Harvesting Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_logging_bonus_t1</ItemId>
+    <ItemName>Minor Logging Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_luck_bonus_t1</ItemId>
+    <ItemName>Minor Loot Luck Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_lost_t1</ItemId>
+    <ItemName>Minor Lost Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_mining_bonus_t1</ItemId>
+    <ItemName>Minor Mining Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>holdingrunet2</ItemId>
+    <ItemName>Minor Rune of Holding</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_skinning_bonus_t1</ItemId>
+    <ItemName>Minor Skinning Gathering Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_blacksmithing_bonus_t1</ItemId>
+    <ItemName>Minor Weaponsmithing Crafting Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_buff_damage_vs_beasts_t1</ItemId>
+    <ItemName>Minor Wildlife Combat Trophy</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>mintt1</ItemId>
+    <ItemName>Mint</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestonefiret1</ItemId>
+    <ItemName>Molten Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keymat_shatteredrune</ItemId>
+    <ItemName>Molten Rune</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonet2</ItemId>
+    <ItemName>Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>mushroomt1</ItemId>
+    <ItemName>Mushroom</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>mushroomfinst1</ItemId>
+    <ItemName>Mushroom Fins</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>notesonaeternumfaunat1</ItemId>
+    <ItemName>Notes on Aeternum Fauna</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>nutt1</ItemId>
+    <ItemName>Nut</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>nutmegt1</ItemId>
+    <ItemName>Nutmeg</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodstaint4</ItemId>
+    <ItemName>Oak Stain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fluxt5</ItemId>
+    <ItemName>Obsidian Flux</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sandpapert5</ItemId>
+    <ItemName>Obsidian Sandpaper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blockt5</ItemId>
+    <ItemName>Obsidian Voidstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oilt1</ItemId>
+    <ItemName>Oil</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_oldbookgroup_f</ItemId>
+    <ItemName>Old Books Row Long</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_oldbookgroup_b</ItemId>
+    <ItemName>Old Books Row Short</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_oldbookgroup_e</ItemId>
+    <ItemName>Old Books Stack</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oniont1</ItemId>
+    <ItemName>Onion</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxt2</ItemId>
+    <ItemName>Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalt2</ItemId>
+    <ItemName>Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oranget1</ItemId>
+    <ItemName>Orange</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentorange</ItemId>
+    <ItemName>Orange Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oreganot1</ItemId>
+    <ItemName>Oregano</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_bandt5</ItemId>
+    <ItemName>Orichalcum Band</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_chaint5</ItemId>
+    <ItemName>Orichalcum Chain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>factionchisel4</ItemId>
+    <ItemName>Orichalcum Chisel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_hookt5</ItemId>
+    <ItemName>Orichalcum Hook</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingott5</ItemId>
+    <ItemName>Orichalcum Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oret5</ItemId>
+    <ItemName>Orichalcum Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_settingt5</ItemId>
+    <ItemName>Orichalcum Setting</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpearloystersmallt3</ItemId>
+    <ItemName>Oyster</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>baitfreshoystert3</ItemId>
+    <ItemName>Oyster Bait</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>paddlefishgillst1</ItemId>
+    <ItemName>Paddlefish Gills</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>paprikat1</ItemId>
+    <ItemName>Paprika</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>parsleyt1</ItemId>
+    <ItemName>Parsley</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pastat1</ItemId>
+    <ItemName>Pasta</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pastrycrustt1</ItemId>
+    <ItemName>Pastry Crust</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pearlt2</ItemId>
+    <ItemName>Pearl</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>peppercornt1</ItemId>
+    <ItemName>Peppercorn</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>petalcapt1</ItemId>
+    <ItemName>Petalcap</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>petrifiedfiret1</ItemId>
+    <ItemName>Petrified Fire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>petrifiedwoodt1</ItemId>
+    <ItemName>Petrified Wood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>phasefibert1</ItemId>
+    <ItemName>Phasefiber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>philosophersstonet1</ItemId>
+    <ItemName>Philosopher's Stone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clotht51</ItemId>
+    <ItemName>Phoenixweave</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>piranhatootht5</ItemId>
+    <ItemName>Piranha Tooth</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>platecapt1</ItemId>
+    <ItemName>Platecap Flesh</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_bandt4</ItemId>
+    <ItemName>Platinum Band</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_chaint4</ItemId>
+    <ItemName>Platinum Chain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_hookt4</ItemId>
+    <ItemName>Platinum Hook</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingotprecioust3</ItemId>
+    <ItemName>Platinum Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oreprecioust3</ItemId>
+    <ItemName>Platinum Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_settingt4</ItemId>
+    <ItemName>Platinum Setting</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>poisonstingert5</ItemId>
+    <ItemName>Poison Sac</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>porkt1</ItemId>
+    <ItemName>Pork</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>porkbellyt1</ItemId>
+    <ItemName>Pork Belly</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>potatot1</ItemId>
+    <ItemName>Potato</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>solventt4</ItemId>
+    <ItemName>Potent Solvent</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>poultryt1</ItemId>
+    <ItemName>Poultry</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>turkeybreastt1</ItemId>
+    <ItemName>Poultry Breast</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>turkeythight1</ItemId>
+    <ItemName>Poultry Thigh</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>precisionarmoringtoolst1</ItemId>
+    <ItemName>Precision Armoring Tools</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>precisionengineeringtoolst1</ItemId>
+    <ItemName>Precision Engineering Tools</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>primeredmeatt1</ItemId>
+    <ItemName>Prime Red Meat</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ambert4</ItemId>
+    <ItemName>Pristine Amber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>amethystt4</ItemId>
+    <ItemName>Pristine Amethyst</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>aquamarinet4</ItemId>
+    <ItemName>Pristine Aquamarine</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pristinebearclawt1</ItemId>
+    <ItemName>Pristine Bear Claw</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pristinebearpeltt1</ItemId>
+    <ItemName>Pristine Bear Pelt</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>carneliant4</ItemId>
+    <ItemName>Pristine Carnelian</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>diamondt4</ItemId>
+    <ItemName>Pristine Diamond</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>emeraldt4</ItemId>
+    <ItemName>Pristine Emerald</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>jaspert4</ItemId>
+    <ItemName>Pristine Jasper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>malachitet4</ItemId>
+    <ItemName>Pristine Malachite</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>moonstonet4</ItemId>
+    <ItemName>Pristine Moonstone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>onyxt4</ItemId>
+    <ItemName>Pristine Onyx</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>opalt4</ItemId>
+    <ItemName>Pristine Opal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pearlt4</ItemId>
+    <ItemName>Pristine Pearl</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubyt4</ItemId>
+    <ItemName>Pristine Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphiret4</ItemId>
+    <ItemName>Pristine Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazt4</ItemId>
+    <ItemName>Pristine Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pristinewolfclawt1</ItemId>
+    <ItemName>Pristine Wolf Claw</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pureresint1</ItemId>
+    <ItemName>Pure Resin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>solventt5</ItemId>
+    <ItemName>Pure Solvent</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentpurple</ItemId>
+    <ItemName>Purple Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>putridbarkt1</ItemId>
+    <ItemName>Putrid Bark</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestonedeatht1</ItemId>
+    <ItemName>Putrid Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>quartermastersnotest1</ItemId>
+    <ItemName>Quartermaster's Notes</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>quillbarkt1</ItemId>
+    <ItemName>Quillbark</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rabbitsfoott1</ItemId>
+    <ItemName>Rabbit's Foot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ragehidet1</ItemId>
+    <ItemName>Ragehide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rawhidet1</ItemId>
+    <ItemName>Rawhide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmoragt5</ItemId>
+    <ItemName>Ray-Finned Barb</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>redmeatt1</ItemId>
+    <ItemName>Red Meat</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentred</ItemId>
+    <ItemName>Red Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>reedt1</ItemId>
+    <ItemName>Reeds</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tannint4</ItemId>
+    <ItemName>Rested Tannin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ricet1</ItemId>
+    <ItemName>Rice</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>bearflankt1</ItemId>
+    <ItemName>Rich Bear Flank</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rivercresst3</ItemId>
+    <ItemName>Rivercress Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rivercresst2</ItemId>
+    <ItemName>Rivercress Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rivercresst1</ItemId>
+    <ItemName>Rivercress Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rosemaryt1</ItemId>
+    <ItemName>Rosemary</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rubyt2</ItemId>
+    <ItemName>Ruby</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>leathert3</ItemId>
+    <ItemName>Rugged Leather</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blockt51</ItemId>
+    <ItemName>Runestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>leathert51</ItemId>
+    <ItemName>Runic Leather</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>runicthreadt5</ItemId>
+    <ItemName>Runic Thread</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>saffront1</ItemId>
+    <ItemName>Saffron</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>saget1</ItemId>
+    <ItemName>Sage</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>salamanderslimet1</ItemId>
+    <ItemName>Salamander Slime</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>saltt1</ItemId>
+    <ItemName>Salt</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>saltpetert1</ItemId>
+    <ItemName>Saltpeter</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fluxt3</ItemId>
+    <ItemName>Sand Flux</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sapphiret2</ItemId>
+    <ItemName>Sapphire</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clotht3</ItemId>
+    <ItemName>Sateen</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sausaget1</ItemId>
+    <ItemName>Sausage</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>scaleclotht1</ItemId>
+    <ItemName>Scalecloth</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>scalecordt1</ItemId>
+    <ItemName>Scalecord</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>scalingpowdert1</ItemId>
+    <ItemName>Scaling Powder</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>scalyhidet1</ItemId>
+    <ItemName>Scaly Hide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>scarhidet1</ItemId>
+    <ItemName>Scarhide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sculpinscalest1</ItemId>
+    <ItemName>Sculpin Scales</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>seasoningblendt1</ItemId>
+    <ItemName>Seasoning Blend</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>serpentinehandguardt1</ItemId>
+    <ItemName>Serpentine Handguard</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shadeclotht1</ItemId>
+    <ItemName>Shadecloth</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shadowfurt1</ItemId>
+    <ItemName>Shadowfur</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shatteredswordt1</ItemId>
+    <ItemName>Shattered Sword</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shellbedt1</ItemId>
+    <ItemName>Shellbed Cap</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fluxt4</ItemId>
+    <ItemName>Shelldust Flux</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shifthidet1</ItemId>
+    <ItemName>Shifthide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shockbulbt3</ItemId>
+    <ItemName>Shockbulb Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shockbulbt2</ItemId>
+    <ItemName>Shockbulb Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>shockbulbt1</ItemId>
+    <ItemName>Shockbulb Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>lodestoneairt1</ItemId>
+    <ItemName>Shocking Lodestone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clotht4</ItemId>
+    <ItemName>Silk</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fibert4</ItemId>
+    <ItemName>Silk Threads</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clothweavet4</ItemId>
+    <ItemName>Silkweave</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_bandt2</ItemId>
+    <ItemName>Silver Band</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_chaint2</ItemId>
+    <ItemName>Silver Chain</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_hookt2</ItemId>
+    <ItemName>Silver Hook</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingotprecioust1</ItemId>
+    <ItemName>Silver Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oreprecioust1</ItemId>
+    <ItemName>Silver Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trinket_settingt2</ItemId>
+    <ItemName>Silver Setting</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingbasssmallt1</ItemId>
+    <ItemName>Small Bass</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingbluefishsmallt1</ItemId>
+    <ItemName>Small Bluefish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingcatfishsmallt2</ItemId>
+    <ItemName>Small Catfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingcodsmallt2</ItemId>
+    <ItemName>Small Cod</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingdragonfishsmallt3</ItemId>
+    <ItemName>Small Dragon Fish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingfloundersmallt1</ItemId>
+    <ItemName>Small Flounder</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingfrogfishsmallt3</ItemId>
+    <ItemName>Small Frogfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghakesmallt1</ItemId>
+    <ItemName>Small Hake</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishinghalibutsmallt2</ItemId>
+    <ItemName>Small Halibut</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmackerelsmallt1</ItemId>
+    <ItemName>Small Mackerel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingmadtomsmallt3</ItemId>
+    <ItemName>Small Madtom</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpaddlefishsmallt3</ItemId>
+    <ItemName>Small Paddlefish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingperchsmallt1</ItemId>
+    <ItemName>Small Perch</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpikesmallt1</ItemId>
+    <ItemName>Small Pike</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingpiranhasmallt3</ItemId>
+    <ItemName>Small Piranha</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsalmonsmallt1</ItemId>
+    <ItemName>Small Salmon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsculpinsmallt3</ItemId>
+    <ItemName>Small Sculpin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsnappersmallt1</ItemId>
+    <ItemName>Small Snapper</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingspeartoothsharksmallt3</ItemId>
+    <ItemName>Small Speartooth Shark</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsquidsmallt2</ItemId>
+    <ItemName>Small Squid</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingstingraysmallt3</ItemId>
+    <ItemName>Small Stingray</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsturgeonsmallt2</ItemId>
+    <ItemName>Small Sturgeon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingsunfishsmallt1</ItemId>
+    <ItemName>Small Sunfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingswordfishsmallt3</ItemId>
+    <ItemName>Small Swordfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingtroutsmallt1</ItemId>
+    <ItemName>Small Trout</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>smolderhidet1</ItemId>
+    <ItemName>Smolderhide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>snailslimet1</ItemId>
+    <ItemName>Snail Slime</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyspiritt3</ItemId>
+    <ItemName>Soul Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyspiritt1</ItemId>
+    <ItemName>Soul Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essencespiritt1</ItemId>
+    <ItemName>Soul Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemyspiritt2</ItemId>
+    <ItemName>Soul Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>soulsproutt3</ItemId>
+    <ItemName>Soulsprout Flower</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>soulsproutt2</ItemId>
+    <ItemName>Soulsprout Leaf</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>soulsproutt1</ItemId>
+    <ItemName>Soulsprout Stem</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>soulwyrmtonguet1</ItemId>
+    <ItemName>Soulwyrm Tongue</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sparklingbonedustt1</ItemId>
+    <ItemName>Sparkling Bone Dust</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>spectraldustt1</ItemId>
+    <ItemName>Spectral Dust</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>spinecapt1</ItemId>
+    <ItemName>Spinecap</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>spinefishfinst1</ItemId>
+    <ItemName>Spinefish Fins</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>splinteredbowt1</ItemId>
+    <ItemName>Splintered Bow</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sporebloomt1</ItemId>
+    <ItemName>Sporebloom Fruit</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>squasht1</ItemId>
+    <ItemName>Squash</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>squidinkt1</ItemId>
+    <ItemName>Squid Ink</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>meatsquidt1</ItemId>
+    <ItemName>Squid Meat</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>stackeddeckt1</ItemId>
+    <ItemName>Stacked Deck</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>starfisht1</ItemId>
+    <ItemName>Starfish</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>factionchisel3</ItemId>
+    <ItemName>Starmetal Chisel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingott4</ItemId>
+    <ItemName>Starmetal Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>oret4</ItemId>
+    <ItemName>Starmetal Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>factionchisel2</ItemId>
+    <ItemName>Steel Chisel</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>ingott3</ItemId>
+    <ItemName>Steel Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>stickyvinest1</ItemId>
+    <ItemName>Sticky Vines</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>stonet1</ItemId>
+    <ItemName>Stone</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blockt2</ItemId>
+    <ItemName>Stone Block</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>blockt3</ItemId>
+    <ItemName>Stone Brick</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>strawberryt1</ItemId>
+    <ItemName>Strawberry</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>stringbeant1</ItemId>
+    <ItemName>String Bean</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>sugart1</ItemId>
+    <ItemName>Sugar</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rabbitt1</ItemId>
+    <ItemName>Sumptuous Rabbit</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>suncreepert1</ItemId>
+    <ItemName>Suncreeper Tendril</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>surveyorstoolst1</ItemId>
+    <ItemName>Surveyor's Tools</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tanglewispt1</ItemId>
+    <ItemName>Tanglewisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tannint3</ItemId>
+    <ItemName>Tannin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tarragont1</ItemId>
+    <ItemName>Tarragon</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_fishing_veryrarefish_a3</ItemId>
+    <ItemName>Taxidermied Blue-blooded Barb</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>house_housingitem_fishing_veryrarefish_c1</ItemId>
+    <ItemName>Taxidermied Daemonaja</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fisht3</ItemId>
+    <ItemName>Tender Fish Filet</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>wolfloint1</ItemId>
+    <ItemName>Tender Wolf Loin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tendrilspinet1</ItemId>
+    <ItemName>Tendrilspine Fibers</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>furt4</ItemId>
+    <ItemName>Thick Fur</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>rawhidet4</ItemId>
+    <ItemName>Thick Hide</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>thymet1</ItemId>
+    <ItemName>Thyme</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>timbert2</ItemId>
+    <ItemName>Timber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>toadpott1</ItemId>
+    <ItemName>Toadpot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>toadstoolfringet1</ItemId>
+    <ItemName>Toadstool Fringe</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tolviumt1</ItemId>
+    <ItemName>Tolvium</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tomatot1</ItemId>
+    <ItemName>Tomato</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>topazt2</ItemId>
+    <ItemName>Topaz</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>trackerssealt1</ItemId>
+    <ItemName>Tracker's Seal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>tubecapt1</ItemId>
+    <ItemName>Tubecap</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentturquoise</ItemId>
+    <ItemName>Turquoise Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>twistcapt1</ItemId>
+    <ItemName>Twistcap Spiral</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>keypart_undyingheart</ItemId>
+    <ItemName>Undying Heart</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fishingogopogot5</ItemId>
+    <ItemName>Varanus Mandje</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>venisont1</ItemId>
+    <ItemName>Venison</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>venisontenderloint1</ItemId>
+    <ItemName>Venison Tenderloin</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>mutagentancientt1</ItemId>
+    <ItemName>Vial of Ancient Mutagen</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>mutagenlostt1</ItemId>
+    <ItemName>Vial Of Ectoplasmic Mutagen</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>voidessence</ItemId>
+    <ItemName>Void Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>voidore</ItemId>
+    <ItemName>Void Ore</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>voidpitchert1</ItemId>
+    <ItemName>Void Pitcher</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>voidbentingot</ItemId>
+    <ItemName>Voidbent Ingot</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>voidsteelt1</ItemId>
+    <ItemName>Voidmetal</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>watert1</ItemId>
+    <ItemName>Water</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemywatert3</ItemId>
+    <ItemName>Water Essence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemywatert1</ItemId>
+    <ItemName>Water Mote</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>essencewatert1</ItemId>
+    <ItemName>Water Quintessence</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>alchemywatert2</ItemId>
+    <ItemName>Water Wisp</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>solventt3</ItemId>
+    <ItemName>Weak Solvent</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>wheatt1</ItemId>
+    <ItemName>Wheat</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>whisperwoodt1</ItemId>
+    <ItemName>Whisperwood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentwhite</ItemId>
+    <ItemName>White Pigment</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>wildwoodt1</ItemId>
+    <ItemName>Wildwood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>fibert5</ItemId>
+    <ItemName>Wirefiber</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>clothweavet5</ItemId>
+    <ItemName>Wireweave</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>witheredbought1</ItemId>
+    <ItemName>Withered Bough</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>woodt4</ItemId>
+    <ItemName>Wyrdwood</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>timbert4</ItemId>
+    <ItemName>Wyrdwood Planks</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>yeastt1</ItemId>
+    <ItemName>Yeast</ItemName>
+  </GoogleSheetsJson>
+  <GoogleSheetsJson>
+    <ItemId>pigmentyellow</ItemId>
+    <ItemName>Yellow Pigment</ItemName>
+  </GoogleSheetsJson>
+</ArrayOfGoogleSheetsJson>
